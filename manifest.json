@@ -1,0 +1,17 @@
+{
+	"manifest_version": 3,
+	"name": "bananpermobil's DoK card filterer",
+	"description": "Adds click events to the categories and filters the decklist.",
+	"version": "0.1",
+	"icons": {
+		"16": "icon16.png",
+		"64": "icon64.png",
+		"128": "icon128.png"
+  },
+	"content_scripts": [
+		{
+			"matches": ["https://decksofkeyforge.com/decks/*"],
+			"js": ["contentscript.js"]
+		}
+	]
+}
