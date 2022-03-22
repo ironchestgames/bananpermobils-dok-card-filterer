@@ -11,6 +11,7 @@
 ### Troubleshooting
 
 **It doesn't work!**
+
 Try following steps:
 1. Open devtools (right-click on the page an click _Inspect_)
 1. Refresh the page with devtools open
