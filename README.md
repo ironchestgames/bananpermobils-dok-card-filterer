@@ -1,5 +1,11 @@
 ## Install
 
+### Through Chrome Web Store
+
+[https://chrome.google.com/webstore/detail/bananpermobils-dok-card-filterer/](https://chrome.google.com/webstore/detail/bananpermobils-dok-card-f/jifplhhanaocmcjcdnnfkombglecjofi?hl=en-GB&authuser=0)
+
+### The hacker way 😎
+
 1. [Download the zip](https://github.com/ironchestgames/bananpermobils-dok-card-filterer/archive/refs/heads/main.zip)
 1. Extract it into a new folder
 1. Go to chrome://extensions/ in Chrome
@@ -12,7 +18,4 @@
 
 **It doesn't work!**
 
-Try following steps:
-1. Open devtools (right-click on the page an click _Inspect_)
-1. Refresh the page with devtools open
-1. It should work now, if so, you can close devtools and it should continue working as well
+1. Try refreshing when on the deck page
